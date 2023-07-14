@@ -1,0 +1,179 @@
+﻿{
+  "main": {
+    "name":"Shahzad Ahmed",
+    "occupation":"Senior Software Engineer",
+    "description":"",
+    "image":"profilepic.jpeg",
+    "bio":"- As a senior full-stack developer with 7 years of experience and a bachelor's degree in Computer Science, I've been working on various projects as a full-stack developer in a variety of industries, ranging from startups to enterprise companies.",
+    "bio1":"- My objective is simply to be the best web developer I can be and to contribute to the technology industry all that I know and can do.",
+    "bio2":"- I'm dedicated to perfecting my craft by learning from seasoned developers.",
+    "bio3":"- I studied Engineering and I believe that my understanding of working as a team are skills that will contribute to my overall success as a developer.",
+    "bio4": "I love working with great people, inspiring others, and being inspired.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shahzadahmedde@gmail.com",
+    "phone": "",
+    "address":{
+      "street":"Parkistan", 
+      "city":"Parkistan",
+      "state":"",
+      "zip": ""
+    },
+    "templateId": "template_0FHEgYVn",
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1JyXkiW-1wgsZ3mqi_r7UJv7NY2pgGpWc/view",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com",
+        "className":"fab fa-skype"
+      },
+      {
+        "name":"mail",
+        "url":"mailto: shahzadahmedde@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Indonesia",
+        "degree":"Bachelor's of Computer Application",
+        "graduated":"April 2010",
+        "description":"- Studying and Developing under 'Harder Choices and Easy Life'"
+      }
+    ],
+    "work":[
+      {
+        "company":"Toptal",
+        "title":"Senior Software Engineer",
+        "years":"Feb 2022 - Present",
+        "description": "- I've been working as a Toptal freelancer on a wide range of projects, providing full-stack development, product design, feature definition, and UX design for diverse project initiatives.",
+        "description1": "- Contributed to product design, feature definition, and development of MVP for location-based iOS chat app; designing custom protocol in Objective-C, using Parse as backend for end-to-end message encryption.",
+        "description2": "Technologies: JavaScript, Typescript, React, Angular, Vue, Node.js, Next.js, Gatsby.js, Django"
+      },
+      {
+        "company":"LingoDeer",
+        "title":"Software Engineer",
+        "years":"Dec 2020 - Feb 2022",
+        "description":"- Converted the conceptual idea of the Learning Management System(LMS) into a real-working product with Vue.js and Django.",
+        "description1":"- Collaborated with the product owner, marketing team, and designer to clarify requirements.",
+        "description2":"- Developed a single-page application with Vue.js, focusing on mobile responsiveness.",
+        "description3":"Technologies: Vue.js, LMS, Javascript, Node.js, TailwindCSS"
+      },
+      {
+        "company":"WebCity Press, Inc",
+        "title":"Junior Software Engineer",
+        "years":"Aug 2019 - Dec 2020",
+        "description": "- Worked as a junior software engineer with React, Vue.js, and Angular for front-end development and Node.js, Django and Ruby on Rails for back-end development.",
+        "description1": "- Implemented LMS business logic, including administration, documentation, tracking, and reporting in the back-end with Django and DRF.",
+        "description2": "Technologies: JavaScript, Typescript, React, Angular, Vue, Node.js, Django"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"Typescript",
+        "level":"100%"
+      },
+      {
+        "name":"React.js",
+        "level":"80%"
+      },
+      {
+        "name":"Next.js",
+        "level":"100%"
+      },
+      {
+        "name":"Node.js",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"90%"
+      },
+      {
+        "name":"Laravel",
+        "level":"90%"
+      },
+      {
+        "name":"Firebase",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"E-Learning Platform - Create&Learn ",
+        "category":"Greatest Online Learning Platform Using React, Node, Next.js, GraphQL, Zoom Api",
+        "image":"image (6).png",
+        "url":"https://www.create-learn.us/"
+      },
+      {
+        "title":"Business App - Emproveit",
+        "category":"MERN Application",
+        "image":"image (1).png",
+        "url":"https://emproveit.com/"
+      },
+      {
+        "title":"Haven - Your World. Kept Private",
+        "category":"React Native / iOS, Android App",
+        "image":"image (2).jpg",
+        "url":"https://gethaven.app/"
+      },
+      {
+        "title":"Education App",
+        "category":"Web and Mobile Development using React/React Native techs",
+        "image":"image (3).png",
+        "url":"https://www.mhighpoint.com/"
+      },
+      {
+        "title":"Internal Design App - Modsy",
+        "category":"MERN Application",
+        "image":"image (4).png",
+        "url":"https://www.modsy.com/"
+      },
+      {
+        "title":"StoryTree - Django, React Native based Social App",
+        "category":"StoryTree is social networking app that makes relatives be in touch with their loved ones in an easy way.",
+        "image":"image (5).png",
+        "url":"https://getsimpleprints.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Shahzad Ahmed is an outstanding software engineer and truly one of the best communicators I've ever had the pleasure to work with.",
+        "user":"Yoko Kaku - Technical Manager from LingoDeer"
+      },
+      {
+        "text":"His engineering experience crosses the entire web stack - most recently React/Redux and Node application development for GraphQL Designer - to rapidly prototype a full-stack GraphQL application. His engineering approach emphasizes building truly scalable applications with AWS EC2, integrating dynamic load balancing and scalable servers",
+        "user":"Mike Atkin - Product Manager from Toptal"
+      }
+    ]
+  }
+}
