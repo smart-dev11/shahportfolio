@@ -56,9 +56,17 @@
     ],
     "work":[
       {
+        "company":"Ember Intelligen",
+        "title":"Senior Web Developer",
+        "years":"Jul 2023 - Present",
+        "description": "",
+        "description1": "",
+        "description2": ""
+      },
+      {
         "company":"Toptal",
         "title":"Senior Software Engineer",
-        "years":"Feb 2022 - Present",
+        "years":"Feb 2022 - Jul 2023",
         "description": "- I've been working as a Toptal freelancer on a wide range of projects, providing full-stack development, product design, feature definition, and UX design for diverse project initiatives.",
         "description1": "- Contributed to product design, feature definition, and development of MVP for location-based iOS chat app; designing custom protocol in Objective-C, using Parse as backend for end-to-end message encryption.",
         "description2": "Technologies: JavaScript, Typescript, React, Angular, Vue, Node.js, Next.js, Gatsby.js, Django"
